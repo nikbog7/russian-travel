@@ -1,0 +1,7 @@
+.place__text {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: min-content;
+  gap: 26px;
+}
+

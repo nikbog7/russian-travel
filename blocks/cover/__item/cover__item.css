@@ -1,0 +1,16 @@
+.cover__item {
+  min-height: 740px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  text-decoration: none;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.cover__item:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
