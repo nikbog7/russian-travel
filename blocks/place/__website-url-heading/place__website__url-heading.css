@@ -1,4 +1,4 @@
-.place__website__url-heading {
+.place__website-url-heading {
   color: #AAAAAA;
   font-size: 12px;
   line-height: 20px;
@@ -10,7 +10,7 @@
  }
 
  @media screen and (max-width: 768px) {
-  .place__website__url-heading {
+  .place__website-url-heading {
     line-height: 12px;
   }
 }
