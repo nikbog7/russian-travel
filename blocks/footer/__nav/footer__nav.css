@@ -4,3 +4,10 @@
  justify-content: space-between;
  margin: 0;
 }
+
+
+@media screen and (max-width: 720px) {
+  .footer__nav {
+    flex-wrap: wrap;
+  }
+}

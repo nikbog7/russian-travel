@@ -5,3 +5,34 @@
   max-width: 1184px;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 1024px) {
+  .header {
+    display: flex;
+    margin: 28px auto 0;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0 24px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+  .header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 16px auto 0;
+    box-sizing: border-box;
+    padding: 0 16 px;
+    }
+}

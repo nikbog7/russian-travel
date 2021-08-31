@@ -5,3 +5,14 @@
   gap: 26px;
 }
 
+@media screen and (max-width: 768px) {
+  .place__text {
+    gap: 25px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .place__text {
+    margin: 0 16px;
+  }
+}

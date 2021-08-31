@@ -4,3 +4,15 @@
   font-weight: normal;
   margin: 40px auto 0;
 }
+
+@media screen and (max-width: 768px) {
+  .intro__text {
+  padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .intro__text{
+  padding: 0 16px;
+  }
+}
