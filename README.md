@@ -8,3 +8,4 @@ Flexbox
 Адаптивная верстка по макету Figma
 BEM
 
+https://github.com/nikbog7/russian-travel.git
