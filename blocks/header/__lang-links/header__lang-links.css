@@ -1,15 +1,11 @@
 .header__lang-links {
-  display: flex;
-  list-style-type: none;
-  font-size: 24px;
-  line-height: 28px;
   margin: 0;
-  padding: 0;
-}
-
-@media screen and (max-width: 540px) {
-  .header__lang-links{
-    font-size: 18px;
-    line-height: 20px;
-  }
+  padding: 0 0 8px;
+  list-style-type: none;
+  display: grid;
+  grid-template-rows: none;
+  grid-template-columns: repeat(2, max-content);
+  justify-content: center;
+  align-content: end;
+  gap: 18px;
 }

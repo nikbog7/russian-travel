@@ -2,10 +2,11 @@
 Обзор:
 Описание
 Одностраничный сайт на тему "Путешествие по России".
-Что применялось
+Что применялось:
 Grid
 Flexbox
 Адаптивная верстка по макету Figma
-BEM
+БЭМ
+БЭМ-файловая система
 
-https://github.com/nikbog7/russian-travel.git
+https://nikbog7.github.io/russian-travel/

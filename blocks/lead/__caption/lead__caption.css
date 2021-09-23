@@ -5,4 +5,27 @@
   letter-spacing: 0.15em;
   text-transform: uppercase;
   margin: 8px auto 0 0;
+  
+}
+
+@media (max-width: 1023px) {
+.lead__caption {
+      max-width: 720px;
+      margin: 10px auto 0;
+  }
+}
+@media (max-width: 767px) {
+.lead__caption {
+      max-width: 390px;
+  }
+}
+@media (max-width: 424px) {
+.lead__caption {
+      max-width: 343px;
+  }
+}
+@media (max-width: 374px) {
+.lead__caption {
+      max-width: 288px;
+  }
 }
